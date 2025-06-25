@@ -58,7 +58,7 @@ La secuencia se genera **aleatoriamente** a partir del ruido presente en el conv
 ## 🧪 Capturas y simulaciones
 
 ![WhatsApp Image 2025-06-25 at 11 59 09](https://github.com/user-attachments/assets/1e34ecae-ece0-4be2-9a79-656499367f37)
-![image](https://github.com/user-attachments/assets/0e629603-3c60-4686-bb58-66da12386541)
+![WhatsApp Image 2025-06-25 at 12 07 16](https://github.com/user-attachments/assets/e33e0898-4545-4e75-881f-08924f477323)
 
 ---
 
