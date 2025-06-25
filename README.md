@@ -52,6 +52,7 @@ La secuencia se genera **aleatoriamente** a partir del ruido presente en el conv
 
 - 🧠 José María Galoppo - [@JoseMGaloppo](https://github.com/JoseMGaloppo)
 - 💡 Luis Mariano Rivera - [@lmarian0](https://github.com/lmarian0)
+- 🎯 Julián Moreyra - [@moreyrajulian](https://github.com/moreyrajulian)
 
 ---
 
