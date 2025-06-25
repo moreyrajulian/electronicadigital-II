@@ -19,7 +19,7 @@ La secuencia se genera **aleatoriamente** a partir del ruido presente en el conv
 
 🔌 **PIC16F887** → Microcontrolador principal                                              
 💡 **8 LEDs** → Muestran la secuencia que debe memorizar el jugador                    
-🎛 **Teclado 4x4** - El jugador ingresa la secuencia que recuerda                           
+🎛  **Teclado 4x4** - El jugador ingresa la secuencia que recuerda                           
 📟 **Displays 7 segmentos** → Muestran el número de rondas alcanzadas                           
 🌀 **ADC** → Se utiliza para generar aleatoriedad a partir de ruido de fondo   
 📡 **UART** → Envía la cantidad de aciertos al finalizar la partida a la computadora 
@@ -53,4 +53,12 @@ La secuencia se genera **aleatoriamente** a partir del ruido presente en el conv
 - 🧠 José María - [@JoseMGaloppo](https://github.com/JoseMGaloppo)
 - 💡 Luis Mariano Rivera - [@lmarian0](https://github.com/lmarian0)
 
+---
+
+## 🧪 Capturas y simulaciones
+
+![WhatsApp Image 2025-06-25 at 11 59 09](https://github.com/user-attachments/assets/1e34ecae-ece0-4be2-9a79-656499367f37)
+![image](https://github.com/user-attachments/assets/0e629603-3c60-4686-bb58-66da12386541)
+
+---
 
