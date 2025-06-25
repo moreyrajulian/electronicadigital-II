@@ -50,7 +50,7 @@ La secuencia se genera **aleatoriamente** a partir del ruido presente en el conv
 
 ## 🧑‍💻 Integrantes del equipo
 
-- 🧠 José María - [@JoseMGaloppo](https://github.com/JoseMGaloppo)
+- 🧠 José María Galoppo - [@JoseMGaloppo](https://github.com/JoseMGaloppo)
 - 💡 Luis Mariano Rivera - [@lmarian0](https://github.com/lmarian0)
 
 ---
