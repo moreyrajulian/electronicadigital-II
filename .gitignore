@@ -1,0 +1,13 @@
+# Archivos de salida y temporales de MPLAB X
+build/
+dist/
+nbproject/private/
+*.hex
+*.elf
+*.o
+*.obj
+*.map
+*.class
+*.log
+.DS_Store
+Thumbs.db
